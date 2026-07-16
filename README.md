@@ -1,6 +1,7 @@
 # Norwood Ready Kids (NRK) Database
 ## Overview
-Norwood Ready Kids is a collaboration between organizations that provide research-informed early childhood education, Norwood City  Schools, and businesses who ensure services are available for 0-5 year old children and parents in 45212
+Norwood Ready Kids is a collaboration between organizations that provide research-informed early childhood education, Norwood City  Schools, and businesses who ensure services are available for 0-5 year old children and parents in 45212.
+
 The project designed and implemented an 11-table relational database to streamline performance tracking for early education programs. This project focuses on data integrity, efficient schema design, and optimized query workflows.
 
 ## Tools & Techniques
